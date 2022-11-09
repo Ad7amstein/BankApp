@@ -1,0 +1,4 @@
+Name                                    ID          Address                       Phone          Balance           Type 
+-------------------------------------------------------------------------------------------------------------------------
+Adham Mohamed Sayed                     FCAI-001    5 Batn Elzeer St., Giza       01009426692    50,000            Basic 
+Abdullah Abdullah Abdullah              FCAI-002    18 Tarek Ibn Ziad St.,Giza    01201301400    5                 Saving
