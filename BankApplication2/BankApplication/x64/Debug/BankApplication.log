@@ -1,0 +1,8 @@
+﻿  BankApplication.cpp
+D:\FCAI\OOP\Assignments\Assign2\BankApp\BankApplication\BankApplication.cpp(65,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BasicAccount.cpp
+  Client.cpp
+  SavingsAccount.cpp
+  main.cpp
+  Generating Code...
+  BankApplication.vcxproj -> D:\FCAI\OOP\Assignments\Assign2\BankApp\BankApplication\x64\Debug\BankApplication.exe
